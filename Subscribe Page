@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+	<head>
+		<title> Subscribe to IRTQMMA </title>
+		<link href="main.css" rel="stylesheet" type="text/css"/>
+	</head>
+
+	<body>
+		<br><br>
+		<h2>Subscribe!</h2>
+		<p>
+
+		<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Stict//EN"
+			"http://www.w3.org/TR/xhtml1/DTD/xhtml1 - strict.dtd">
+		<html xmlns="http://www.w3.org/1999/xhtml1">
+		  <head>
+		  	<title>Sign up to day to get our monthly newsletter!</title>
+		  	<meta http-equiv="Content-Type"
+		  		content="text/html; charset=utf-8" />
+		  	</head>
+		  	<body>
+		  		<h1>Sign up today, and get our monthly newsletter!</h1>
+		  		<form method="get" action="subscribe.html">
+		  			<p>
+		  				<label for="name">Name :</label>
+		  				<input type="text" name="name" id="name" /><br>
+		  				<label for="email">Email :</label>
+		  				<input type="text" name="Email" id="email" />
+		  			</p>
+		  			<p><input type="submit" /></p>
+		  		</form>
+		  	</body>
+		  	</html>
+
+
+		<ul>
+			<li><a href="index.html"> Home </a></li>
+			<li><a href="services.html"> Services</a></li>
+			<li><a href="FAQ.html"> FAQ</a></li>
+			<li><a href="about.html"> About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+			<li><a href="subscribe.html">Subscribe</a></li>
+
+		</ul>
+		</p>
+
+<div class="navbar">
+<div class="navbar-header">
+  <a class="navbar-brand" href="index.html">IRTQMMA </a> 
+  <a href="index.html">Home</a> 
+  <a href="#services">Services</a>
+  <a href="FAQ.html">FAQ</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+  <a href="subscribe.html">Subscribe</a>
+</div>
+
+<div class="main">
+  <p></p>
+</div>
+
+	</body>
+	</html>
