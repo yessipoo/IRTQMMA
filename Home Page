@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<title> I Refuse To Quit MMA</title>
+	</head>
+
+	<body>
+		<h1> Welcome to IRTQMMA </h1>
+		<h1>Large</h1>
+		<h2>Medium</h2>
+		<h3>Smoll</h3>
+		<p>
+			this is how you make words <strong> bold </strong><br><br>
+		</p>
+			
+		<p>
+			this is how you make words <em> italic</em><br><br>
+		</p>
+
+		<a href="https://www.elite-mma.com/">elite-mma.com</a><br><br>
+
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrjgFlRmpUZTJZWnB_z4WJwRYNw3W1HsQpSsnAAZ3fgxW2B-C">
+
+		<div></div>
+		<span></span>
+
+		<ul>
+			<li> item 1 </li>
+			<li> item 2 </li>
+		</ul>
+		<ol>
+			<li> item 1 </li>
+			<li> item 2 </li>
+		</ol>
+
+	</body>
+
+</html>
