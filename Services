@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+	<head>
+		<title> IRTQMMA Services </title>
+		<link href="main.css" rel="stylesheet" type="text/css"/>
+	</head>
+
+	<body>
+		<br><br>
+		<h2>Services</h2>
+		<p> We are in the business of making the gym membership process easy
+		<ul>
+			<li><a href="index.html"> Home </a></li>
+			<li><a href="services.html"> Services</a></li>
+			<li><a href="FAQ.html"> FAQ</a></li>
+			<li><a href="about.html"> About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+			<li><a href="subscribe.html">Subscribe</a></li>
+
+		</ul>
+		</p>
+
+<div class="navbar">
+<div class="navbar-header">
+  <a class="navbar-brand" href="index.html">IRTQMMA </a> 
+  <a href="index.html">Home</a> 
+  <a href="#services">Services</a>
+  <a href="FAQ.html">FAQ</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+  <a href="subscribe.html">Subscribe</a>
+</div>
+
+<div class="main">
+  <p></p>
+</div>
+
+	</body>
+	</html>
